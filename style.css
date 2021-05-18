@@ -1,0 +1,28 @@
+body {
+
+    background-color: seagreen;
+}
+
+#welcome {
+    text-align: center;
+    color: darkgreen;
+    background-color: turquoise;
+}
+
+h2 {
+    color: limegreen
+}
+p { 
+    
+}
+
+div {
+    background-color: azure;
+    border-radius: 25px;
+    
+    padding: 20px;
+}
+.horizontal {
+    border-bottom: 5px dashed gray;
+
+}
