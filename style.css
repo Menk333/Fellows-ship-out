@@ -1,12 +1,12 @@
 body {
 
-    background-color: whitesmoke;
+    background-color: lightcoral;
 }
 
 #welcome {
     text-align: center;
-    color: white;
-    background-color: rgb(19, 137, 177);
+    color: #f3f8f2;
+    background-color: #503047);
 }
 
 h2 {
@@ -17,7 +17,7 @@ div {
     margin-top: 20px;
     margin-right: 50px;
     margin-left: 50px;
-    background-color: white;
+    background-color: #f4978e;
     border-radius: 25px;
     
     padding: 20px;
