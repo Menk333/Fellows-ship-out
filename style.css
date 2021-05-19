@@ -12,9 +12,6 @@ body {
 h2 {
     color: limegreen
 }
-p { 
-    
-}
 
 div {
     background-color: azure;
@@ -25,4 +22,8 @@ div {
 .horizontal {
     border-bottom: 5px dashed gray;
 
+}
+
+.box {
+    padding-top: 40px
 }
