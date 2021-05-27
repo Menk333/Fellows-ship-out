@@ -22,22 +22,17 @@ h2 {
     
   }
 div {
-    margin-top: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
     background-color: lightgoldenrodyellow;
     border-radius: 25px;
     border-color: rgb(0, 0, 0);
     padding: 20px;
 }
-.horizontal {
-    border-bottom: 5px dashed gray;
 
-}
 
-.box {
-    padding-top: 40px
-}
+
 
 /* Dropdown Button */
 .dropbtn {
