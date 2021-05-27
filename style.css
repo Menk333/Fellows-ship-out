@@ -16,7 +16,7 @@ h2 {
 
 .responsive {
     width: auto;
-    max-width: 400px;
+    min-width: 400px;
     height: auto;
     
   }
