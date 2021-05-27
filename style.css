@@ -11,7 +11,7 @@ body {
 
 h2 {
     color: #000000;
-    background-color: azure;
+    ;
 }
 
 
@@ -19,9 +19,9 @@ div {
     margin-top: 20px;
     margin-right: 50px;
     margin-left: 50px;
-    background-color: rgb(117, 117, 117);
+    background-color: lightcoral;
     border-radius: 25px;
-    border-color: gray;
+    border-color: rgb(0, 0, 0);
     padding: 20px;
 }
 .horizontal {
