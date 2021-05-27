@@ -17,11 +17,13 @@ h2 {
 .responsive {
     width: 100%;
     height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 div {
     margin-top: 20px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
     background-color: lightcoral;
     border-radius: 25px;
     border-color: rgb(0, 0, 0);
