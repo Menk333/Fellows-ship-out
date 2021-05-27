@@ -14,7 +14,10 @@ h2 {
     ;
 }
 
-
+.responsive {
+    width: 100%;
+    height: auto;
+  }
 div {
     margin-top: 20px;
     margin-right: 50px;
