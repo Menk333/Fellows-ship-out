@@ -1,9 +1,8 @@
 body {
 padding-left: 50px;
 padding-right: 50px;
-    background-color: lightcoral;
+    background-color: whitesmoke;
 }
-
 
 
 h2 {
@@ -19,7 +18,7 @@ h2 {
   }
 div {
     margin-top: 5px;
-    background-color: lightgoldenrodyellow;
+    background-color: lightgrey;
     border-radius: 25px;
     border-color: rgb(0, 0, 0);
     padding: 20px;
